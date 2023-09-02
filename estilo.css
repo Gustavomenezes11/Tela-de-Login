@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    background-color: brown;
+}
+div{
+    width: 100vw;
+    margin: auto;
+    margin-top: 160px;
+    padding: 40px;
+    max-width: 200px;
+    border: 3px solid black;  
+    box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.968);
+    border-radius: 10%;
+}
+a{
+    background-color: white;
+}
